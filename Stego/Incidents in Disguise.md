@@ -14,4 +14,4 @@
 
 ![image](https://github.com/user-attachments/assets/07765b0f-93a5-4ff5-b234-3765418ba9f1)
 
--Jackpot!!!, It flag.txt which contains **CM{Bru73_f0rc3_i5_b35t}**
+-Jackpot!!!, Steghid wrote flag.txt which contains **CM{Bru73_f0rc3_i5_b35t}**
