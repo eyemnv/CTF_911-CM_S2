@@ -4,8 +4,8 @@
 
 -So we have two Major clues from description that is **"Something reversing and Lets Rock"**, bascially it means to reverse something but what??.
 
--Hmmm, "Let's Rock", is it rockyou.txt?. Let's Try reversing **rockyou.txt**, **rev rockyou.txt rv_rockyou.txt** . Meanwhile Hint spawned in Discord.
+-Hmmm, "Let's Rock", is it rockyou.txt?. Let's Try reversing **rockyou.txt**, **_rev rockyou.txt rv_rockyou.txt_** . Meanwhile Hint spawned in Discord.
 
 ![image](https://github.com/user-attachments/assets/55647ee4-84c5-4a0e-be40-5e8450fa3879)
 
--Ok, so password contains **"amos"**. Let's grep, **grep "amos" rv_rockyou.txt > stg.txt**
+-Ok, so password contains **"amos"**. Let's grep, **_grep "amos" rv_rockyou.txt > stg.txt_**
