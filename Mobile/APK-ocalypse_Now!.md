@@ -17,5 +17,6 @@
 -Let's Try **ASCII85 Encoding**, Garbage Value.
 
 -Umm  **ROT Cipher** ??, BINGO!!! We got the flag **"CM{H1dd3n_7L4g_1n_M4nIF35T}"**
+
 ![image](https://github.com/user-attachments/assets/ec6378b5-d682-4e3e-b717-7e8ecf09af52)
 
