@@ -60,7 +60,7 @@ Let's Check Description.
 
 -So we got string format "CM{xxxxx_#x_#xxx#_#_x##xxx}" okay so if we compare this with our builded flag "CM{Break_1t_1int0" it looks alike alphabets are coded as X and numbers as #.
 
--Lets all four images that we got till now, it looks like last part of the flag "p13ces}", cool but whats that in between number?
+-Lets combine all four images that we got till now, it looks like last part of the flag "p13ces}", cool but whats that in between number?
 
 ![image](https://github.com/user-attachments/assets/e77f5539-04b7-4e02-bd42-ea2abaf113a6)
 
