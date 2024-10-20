@@ -9,3 +9,9 @@
 ![image](https://github.com/user-attachments/assets/55647ee4-84c5-4a0e-be40-5e8450fa3879)
 
 -Ok, so password contains **"amos"**. Let's grep, **_grep "amos" rv_rockyou.txt > stg.txt_**
+
+-We still got bunch of passwords, let's try one by one with steghide, **"steghide extract -sf <Image path> -p <Password>"**.
+
+![image](https://github.com/user-attachments/assets/07765b0f-93a5-4ff5-b234-3765418ba9f1)
+
+-Jackpot!!!, It flag.txt which contains **CM{Bru73_f0rc3_i5_b35t}**
