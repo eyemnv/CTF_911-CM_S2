@@ -34,7 +34,7 @@
 
 ![image](https://github.com/user-attachments/assets/2d24e61c-0bd5-49da-bd1f-e4078158dd0c)
 
--Now lets go to page three, so if we see here picture number 00001, 0010 was old images which gave the half of flag, so lets try steghide with 0011 as password of prev data i.e. "1t".
+-Now let's go to page three, so if we see here picture number 00001, 0010 was old images which gave the half of flag, so lets try steghide with 0011 as password of prev data i.e. "1t".
 
 ![image](https://github.com/user-attachments/assets/5d191e5e-64f3-4ee7-8f67-2851a7465b02)
 
@@ -42,4 +42,28 @@
 
 ![image](https://github.com/user-attachments/assets/aa078482-2ca3-4440-84c4-8da6d8e4ee7f)
 
--Cool lets visit paste, there we got **"__1int0__"** , ok this would be pass for next part of stego. Now our flag looks like **"CM{Break_1t_1int0_"**
+-Cool lets visit pastebin site via , there we got **"__1int0__"** , ok this would be pass for next part of stego. Now our flag looks like **"CM{Break_1t_1int0_"**
+
+-Let's go to next page by clicking emoji. 
+
+-Here word "Image" has underline means that would be the link.
+
+![image](https://github.com/user-attachments/assets/17920a83-74da-4337-a9fc-52209bbc717d)
+ 
+-Let's Download and deocde this with steghide and pass as last decode which was  "1int0_"
+
+![image](https://github.com/user-attachments/assets/8124d7fe-06dc-4b42-95a5-2e546f8fba07)
+
+-As expected got the answer, after opening file "part-4-flag.txt", hmm this now looks bit tricky.
+
+![image](https://github.com/user-attachments/assets/6a969665-020e-46bf-95db-ca1f189c1981)
+
+-So we got string format "CM{xxxxx_#x_#xxx#_#_x##xxx}" okay so if we compare this with our builded flag "CM{Break_1t_1int0" it looks alike alphabets are coded as X and numbers as #.
+
+-Lets all four images that we got till now, it looks like last part of the flag "p13ces}", cool but whats that in between number?
+
+![image](https://github.com/user-attachments/assets/e77f5539-04b7-4e02-bd42-ea2abaf113a6)
+
+-Let's check flag4.txt output again it says about square and it has 4 sides, let's give a try for **"CM{Break_1t_1int0_4_p13ces}"**
+
+-Bingo it worked!!!!
