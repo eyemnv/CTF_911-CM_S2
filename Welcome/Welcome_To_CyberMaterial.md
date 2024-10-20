@@ -19,5 +19,8 @@ Let's Start By checking description.
 
 -Let's see how do they work. Command Starts with **"/"**.
 
--Let's try **""** 
+-Let's try **"/flag"** in **CTF SUPPORT CHANNEL** and BOOM got the first part "CM{w3lc0m3_t0".
+
+![image](https://github.com/user-attachments/assets/89f4be7e-cadd-4cc8-9377-ab759c96059e)
+
 
