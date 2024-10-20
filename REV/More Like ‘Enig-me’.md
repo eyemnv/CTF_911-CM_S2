@@ -16,11 +16,11 @@
 
 -Using common Refelctor setting - "B"
 
--Now we need to find Position setting - "A-A-A", "B-B-B", "C-C-C", etc .
+-Now we need to find Position setting - "A-A-A", "B-B-B", "C-C-C", etc.
 
 ![image](https://github.com/user-attachments/assets/ab438fd6-918f-41de-b62e-4e00c1853a6f)
 
--Not a good hit, lets try "A-D-F" ,"B-C-A" ect
+-Not a good hit, lets try "A-D-F" ,"B-C-A" etc.
 
 ![image](https://github.com/user-attachments/assets/cfdae265-5667-4edf-92c1-43e366f005c6)
 
