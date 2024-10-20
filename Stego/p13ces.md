@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ebd4627c-91f7-4103-93e9-a7d888289f8a)-Let's Check Description.
+Let's Check Description.
 
 ![image](https://github.com/user-attachments/assets/8fe6bae7-c6dc-48a3-a406-bd1766ca967e)
 
