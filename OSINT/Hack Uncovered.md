@@ -12,4 +12,6 @@
 
 ![image](https://github.com/user-attachments/assets/5cd31a57-a4fa-4055-9e2a-5e5790a4d9a0)
 
--
+-As we have Flag String Format, now its easy game, just search for top threats, Vulnerability, and regulations from that PDF and align in the Flag Format.
+
+-So Flag is **CM{DarkGate_CVE-2024-5217_KOPSA}**
