@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/a4c917b7-a338-4538-bde1-a79336ece745)
 
--So w have two Major clues from description that is **"Something reversing and Lets Rock"**, bascially it means to reverse something but what??.
+-So we have two Major clues from description that is **"Something reversing and Lets Rock"**, bascially it means to reverse something but what??.
 
 -Hmmm, "Let's Rock", is it rockyou.txt?. Let's Try reversing **rockyou.txt**, **rev rockyou.txt rv_rockyou.txt** . Meanwhile Hint spawned in Discord.
 
