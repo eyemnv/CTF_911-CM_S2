@@ -19,8 +19,13 @@ Let's Start By checking description.
 
 -Let's see how do they work. Command Starts with **"/"**.
 
--Let's try **"/flag"** in **CTF SUPPORT CHANNEL** and BOOM got the first part "CM{w3lc0m3_t0".
+-Let's try **"/flag"** in **CTF SUPPORT CHANNEL** and BOOM got the first part **"CM{w3lc0m3_t0"**.
 
 ![image](https://github.com/user-attachments/assets/89f4be7e-cadd-4cc8-9377-ab759c96059e)
 
 
+-Now as pr Flag Description is says that One is Discord and other is Instagram. Let's Check Instagram now.
+
+![image](https://github.com/user-attachments/assets/4543882d-d153-4a64-bfd4-836d87c43ea2)
+
+-Description of Instgram Profile Says it all,** _H4ac_H4voc}**. Let's combine **"CM{w3lc0m3_t0_H4ac_H4voc} "**  
