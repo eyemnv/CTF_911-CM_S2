@@ -1,4 +1,4 @@
--Let's look into descriptionm what does it says. **"Put on your detective hat and dive into our mysterious APK! Get it and uncover hidden treasures—will it be memes, cat videos, or just code? Get ready to crack the APK-ocalypse! 🐱‍👤💥"**
+-Let's look into description what does it says.
 
 ![image](https://github.com/user-attachments/assets/ca4b83e5-b572-40e9-9abb-ab56a9acc68a)
 
