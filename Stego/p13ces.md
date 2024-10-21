@@ -1,4 +1,4 @@
-Let's Check Description.
+-Let's look into description what does it says.
 
 ![image](https://github.com/user-attachments/assets/8fe6bae7-c6dc-48a3-a406-bd1766ca967e)
 
