@@ -36,6 +36,8 @@
 
 -Let's Finds our file and try to execute it.
 
+![image](https://github.com/user-attachments/assets/e44d58b2-2b85-460f-a117-6b6bc39d55c5)
+
 -Hmm we got the shell.
 
 ![image](https://github.com/user-attachments/assets/f80274ac-3a57-49ad-8b0f-3e3301547f16)
