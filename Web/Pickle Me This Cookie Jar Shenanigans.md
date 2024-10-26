@@ -24,4 +24,6 @@
 
 ![image](https://github.com/user-attachments/assets/6cbe4086-7e92-40b3-a868-2189ef912790)
 
--
+-After Replacing just click on forward and boom we got the rev shell.
+
+
