@@ -12,4 +12,4 @@
 
 ![image](https://github.com/user-attachments/assets/9320f570-4e35-43f0-8866-13b156eba95a)
 
--So this is the flag CM{GOLDEN_GATE_BRIDGE}
+-So this is the flag **CM{GOLDEN_GATE_BRIDGE}**.
