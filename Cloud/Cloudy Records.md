@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-10-22 at 12 49 12_474ed9c5](https://github.com/user-attachments/assets/4b857d7c-8b08-408f-ac7e-c549645d5044)-Let's look into description what does it says.
+-Let's look into description what does it says.
 
 ![image](https://github.com/user-attachments/assets/e088e46a-8082-45f7-b286-6064e16d2dc3)
 
